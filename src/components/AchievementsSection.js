@@ -24,13 +24,15 @@ function AchievementsSection() {
         {
           title: "Internship at VESIT, Research and Development",
           details: "May 2024 - July 2024",
+          link: "https://raw.githubusercontent.com/AtharvaSarang/resume-react/main/public/certificates/vlsi_internship.pdf", // <--- REPLACE THIS WITH YOUR COPIED LINK
+
           // No link for internship, so 'link' property is omitted
         },
         {
           title: "VLSI Workshop",
           details: "Designed an OTA - Operational Transconductance Amplifier",
-          // If you have a PDF for VLSI, get its raw link and paste here. Otherwise, omit 'link'.
-          // link: "https://raw.githubusercontent.com/AtharvaSarang/resume-react/main/public/certificates/vlsi_workshop.pdf" // Example: Replace with your actual copied link
+          // UNCOMMENT and PASTE the actual direct link to your VLSI PDF certificate on GitHub here
+          link: "https://raw.githubusercontent.com/AtharvaSarang/resume-react/main/public/certificates/vlsi_internship.pdf", // <--- REPLACE THIS WITH YOUR COPIED LINK
         },
       ],
     },
